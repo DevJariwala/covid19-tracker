@@ -1,6 +1,6 @@
 # covid19-tracker
 
-This project is deploy on Firebase you see this on below link
+This project is deploy on Firebase you can see this over here link:
 https://covid-19-tracker-cdc4e.web.app/
 
 to run this project on your computer
